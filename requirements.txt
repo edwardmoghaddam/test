@@ -256,7 +256,7 @@ statsd==3.2.2
 stevedore==1.28.0
 sympy==1.1.1
 tables==3.4.3
-tensorflow==1.5.0
+tensorflow==1.15.2
 tensorflow-tensorboard==1.5.1
 terminado==0.8.1
 testpath==0.4.2
