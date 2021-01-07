@@ -129,7 +129,7 @@ linecache2==1.0.0
 locket==0.2.0
 lockfile==0.12.2
 logilab-common==1.4.1
-lxml==4.2.1
+lxml==4.6.2
 m2r==0.2.1
 Mako==1.0.7
 Markdown==2.6.11
